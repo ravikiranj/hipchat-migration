@@ -1,0 +1,3762 @@
+{
+    "items": [
+        {
+            "id": 440,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/440"
+            },
+            "shortcut": "ahhh",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/ahhh-1444425749.gif"
+        },
+        {
+            "id": 411,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/411"
+            },
+            "shortcut": "andrew",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/andrew-1444161716.jpg"
+        },
+        {
+            "id": 378,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/378"
+            },
+            "shortcut": "andrewpowers",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/andrewpowers-1443635752.jpg"
+        },
+        {
+            "id": 373,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/373"
+            },
+            "shortcut": "andy",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/andy-1443214075.png"
+        },
+        {
+            "id": 446,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/446"
+            },
+            "shortcut": "applause",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/applause-1444428917.gif"
+        },
+        {
+            "id": 230,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/230"
+            },
+            "shortcut": "arsenal",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/arsenal-1427735917.png"
+        },
+        {
+            "id": 285,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/285"
+            },
+            "shortcut": "austin",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/austin-1442413374.png"
+        },
+        {
+            "id": 450,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/450"
+            },
+            "shortcut": "austinpowers",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/austinpowers-1444483999.gif"
+        },
+        {
+            "id": 288,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/288"
+            },
+            "shortcut": "bacon",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/bacon-1442417249.png"
+        },
+        {
+            "id": 365,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/365"
+            },
+            "shortcut": "bane",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/bane-1443114085.gif"
+        },
+        {
+            "id": 155,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/155"
+            },
+            "shortcut": "banghead",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/banghead-1407169515.gif"
+        },
+        {
+            "id": 229,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/229"
+            },
+            "shortcut": "barca",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/barca-1427735830.png"
+        },
+        {
+            "id": 320,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/320"
+            },
+            "shortcut": "bash",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/bash-1442448445.gif"
+        },
+        {
+            "id": 387,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/387"
+            },
+            "shortcut": "batman",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/batman-1443720486.jpeg"
+        },
+        {
+            "id": 263,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/263"
+            },
+            "shortcut": "bender",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/bender-1441240655.png"
+        },
+        {
+            "id": 286,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/286"
+            },
+            "shortcut": "bike",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/bike-1442417249.png"
+        },
+        {
+            "id": 433,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/433"
+            },
+            "shortcut": "bitcoin",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/bitcoin-1444351426.jpg"
+        },
+        {
+            "id": 222,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/222"
+            },
+            "shortcut": "boat",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/boat-1423073319.png"
+        },
+        {
+            "id": 223,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/223"
+            },
+            "shortcut": "boats",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/boats-1423073355.png"
+        },
+        {
+            "id": 366,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/366"
+            },
+            "shortcut": "brady",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/brady-1443119329.gif"
+        },
+        {
+            "id": 295,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/295"
+            },
+            "shortcut": "bread",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/bread-1442417250.gif"
+        },
+        {
+            "id": 355,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/355"
+            },
+            "shortcut": "britain",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/britain-1442921592.png"
+        },
+        {
+            "id": 254,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/254"
+            },
+            "shortcut": "burrito",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/burrito-1436464328.png"
+        },
+        {
+            "id": 375,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/375"
+            },
+            "shortcut": "captobvious",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/captobvious-1443614898.jpeg"
+        },
+        {
+            "id": 239,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/239"
+            },
+            "shortcut": "carrot",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/carrot-1430321943.png"
+        },
+        {
+            "id": 292,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/292"
+            },
+            "shortcut": "cat",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/cat-1442417249.gif"
+        },
+        {
+            "id": 314,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/314"
+            },
+            "shortcut": "clap",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/clap-1442432057.gif"
+        },
+        {
+            "id": 335,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/335"
+            },
+            "shortcut": "creeper",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/creeper-1442589904.png"
+        },
+        {
+            "id": 358,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/358"
+            },
+            "shortcut": "crickets",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/crickets-1442929894.png"
+        },
+        {
+            "id": 374,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/374"
+            },
+            "shortcut": "crow",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/crow-1443551781.jpeg"
+        },
+        {
+            "id": 422,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/422"
+            },
+            "shortcut": "cruisecritic",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/cruisecritic-1444307661.png"
+        },
+        {
+            "id": 368,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/368"
+            },
+            "shortcut": "crying",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/crying-1443123976.gif"
+        },
+        {
+            "id": 426,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/426"
+            },
+            "shortcut": "dafuq",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/dafuq-1444335025.gif"
+        },
+        {
+            "id": 306,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/306"
+            },
+            "shortcut": "dance",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/dance-1414025267.gif"
+        },
+        {
+            "id": 244,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/244"
+            },
+            "shortcut": "devil",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/devil-1430325165.png"
+        },
+        {
+            "id": 289,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/289"
+            },
+            "shortcut": "digdug",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/digdug-1442417249.png"
+        },
+        {
+            "id": 342,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/342"
+            },
+            "shortcut": "disappearcat",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/disappearcat-1442597948.gif"
+        },
+        {
+            "id": 287,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/287"
+            },
+            "shortcut": "dolphin",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/dolphin-1442417249.png"
+        },
+        {
+            "id": 383,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/383"
+            },
+            "shortcut": "dontbedumb",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/dontbedumb-1443713404.png"
+        },
+        {
+            "id": 315,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/315"
+            },
+            "shortcut": "downsource",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/downsource-1442432500.png"
+        },
+        {
+            "id": 443,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/443"
+            },
+            "shortcut": "dramaticchipmunk",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/dramaticchipmunk-1444426208.gif"
+        },
+        {
+            "id": 441,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/441"
+            },
+            "shortcut": "dramaticeagle",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/dramaticeagle-1444425907.gif"
+        },
+        {
+            "id": 326,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/326"
+            },
+            "shortcut": "drnick",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/drnick-1442518221.gif"
+        },
+        {
+            "id": 470,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/470"
+            },
+            "shortcut": "ducks",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/ducks-1444858182.jpg"
+        },
+        {
+            "id": 466,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/466"
+            },
+            "shortcut": "dying",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/dying-1444845724.gif"
+        },
+        {
+            "id": 302,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/302"
+            },
+            "shortcut": "ewok",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/ewok-1442417249.gif"
+        },
+        {
+            "id": 161,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/161"
+            },
+            "shortcut": "eyes",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/eyes-1416435435.png"
+        },
+        {
+            "id": 360,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/360"
+            },
+            "shortcut": "fancy",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/fancy-1443034179.jpg"
+        },
+        {
+            "id": 442,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/442"
+            },
+            "shortcut": "fingerwag",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/fingerwag-1444426114.gif"
+        },
+        {
+            "id": 386,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/386"
+            },
+            "shortcut": "fire",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/fire-1443717641.png"
+        },
+        {
+            "id": 341,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/341"
+            },
+            "shortcut": "fireman",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/fireman-1442597455.png"
+        },
+        {
+            "id": 228,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/228"
+            },
+            "shortcut": "football",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/football-1427735607.png"
+        },
+        {
+            "id": 241,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/241"
+            },
+            "shortcut": "ghost",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/ghost-1414024665.png"
+        },
+        {
+            "id": 324,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/324"
+            },
+            "shortcut": "git",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/git-1442494783.jpg"
+        },
+        {
+            "id": 233,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/233"
+            },
+            "shortcut": "gitlab",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/gitlab-1427910913.png"
+        },
+        {
+            "id": 382,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/382"
+            },
+            "shortcut": "goddamnit",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/goddamnit-1443712864.jpg"
+        },
+        {
+            "id": 437,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/437"
+            },
+            "shortcut": "gohan",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/gohan-1444423048.gif"
+        },
+        {
+            "id": 275,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/275"
+            },
+            "shortcut": "grandpa",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/grandpa-1442257131.png"
+        },
+        {
+            "id": 385,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/385"
+            },
+            "shortcut": "greatsuccess",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/greatsuccess-1443716443.jpg"
+        },
+        {
+            "id": 318,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/318"
+            },
+            "shortcut": "gump",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/gump-1442442505.gif"
+        },
+        {
+            "id": 238,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/238"
+            },
+            "shortcut": "hamburger",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/hamburger-1430321837.png"
+        },
+        {
+            "id": 399,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/399"
+            },
+            "shortcut": "handegg",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/handegg-1443808242.png"
+        },
+        {
+            "id": 307,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/307"
+            },
+            "shortcut": "handhug",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/handhug-1442417249.gif"
+        },
+        {
+            "id": 460,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/460"
+            },
+            "shortcut": "highfive",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/highfive-1444761130.gif"
+        },
+        {
+            "id": 319,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/319"
+            },
+            "shortcut": "hiking",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/hiking-1442442744.png"
+        },
+        {
+            "id": 268,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/268"
+            },
+            "shortcut": "hldb",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/hldb-1441819846.gif"
+        },
+        {
+            "id": 291,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/291"
+            },
+            "shortcut": "home",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/home-1442417249.png"
+        },
+        {
+            "id": 290,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/290"
+            },
+            "shortcut": "horse",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/horse-1442417249.png"
+        },
+        {
+            "id": 377,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/377"
+            },
+            "shortcut": "howyoudoin",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/howyoudoin-1443635560.jpg"
+        },
+        {
+            "id": 327,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/327"
+            },
+            "shortcut": "hypnotoad",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/hypnotoad-1442521186.gif"
+        },
+        {
+            "id": 339,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/339"
+            },
+            "shortcut": "ibex",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/ibex-1442596336.png"
+        },
+        {
+            "id": 325,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/325"
+            },
+            "shortcut": "icystare",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/icystare-1442510398.gif"
+        },
+        {
+            "id": 420,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/420"
+            },
+            "shortcut": "ihateyou",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/ihateyou-1444240573.jpg"
+        },
+        {
+            "id": 457,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/457"
+            },
+            "shortcut": "ihavethepower",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/ihavethepower-1444661774.jpg"
+        },
+        {
+            "id": 308,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/308"
+            },
+            "shortcut": "jazzhands",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/jazzhands-1442417250.gif"
+        },
+        {
+            "id": 281,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/281"
+            },
+            "shortcut": "jenkins",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/jenkins-1442345480.png"
+        },
+        {
+            "id": 226,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/226"
+            },
+            "shortcut": "jiraicon",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/jiraicon-1427257245.png"
+        },
+        {
+            "id": 407,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/407"
+            },
+            "shortcut": "justdoit",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/justdoit-1444076597.gif"
+        },
+        {
+            "id": 248,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/248"
+            },
+            "shortcut": "juventus",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/juventus-1433536051.png"
+        },
+        {
+            "id": 408,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/408"
+            },
+            "shortcut": "kappa",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/kappa-1444085476.jpg"
+        },
+        {
+            "id": 417,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/417"
+            },
+            "shortcut": "kicknuts",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/kicknuts-1444235912.gif"
+        },
+        {
+            "id": 406,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/406"
+            },
+            "shortcut": "largemarge",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/largemarge-1444071958.gif"
+        },
+        {
+            "id": 404,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/404"
+            },
+            "shortcut": "lawn",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/lawn-1443811083.png"
+        },
+        {
+            "id": 270,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/270"
+            },
+            "shortcut": "leftshark",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/leftshark-1442196417.gif"
+        },
+        {
+            "id": 247,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/247"
+            },
+            "shortcut": "legchat",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/legchat-1433518957.png"
+        },
+        {
+            "id": 277,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/277"
+            },
+            "shortcut": "lgtmcow",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/lgtmcow-1442271226.gif"
+        },
+        {
+            "id": 156,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/156"
+            },
+            "shortcut": "looking",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/looking-1407169530.png"
+        },
+        {
+            "id": 333,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/333"
+            },
+            "shortcut": "lrrr",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/lrrr-1442521550.png"
+        },
+        {
+            "id": 362,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/362"
+            },
+            "shortcut": "marlo",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/marlo-1443098762.gif"
+        },
+        {
+            "id": 276,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/276"
+            },
+            "shortcut": "meatwad",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/meatwad-1442263856.gif"
+        },
+        {
+            "id": 480,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/480"
+            },
+            "shortcut": "meeseeks",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/meeseeks-1445015205.png"
+        },
+        {
+            "id": 293,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/293"
+            },
+            "shortcut": "metal",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/metal-1442417256.png"
+        },
+        {
+            "id": 379,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/379"
+            },
+            "shortcut": "monkey",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/monkey-1443639261.gif"
+        },
+        {
+            "id": 334,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/334"
+            },
+            "shortcut": "morbo",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/morbo-1442522100.jpg"
+        },
+        {
+            "id": 157,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/157"
+            },
+            "shortcut": "morning",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/morning-1407169544.png"
+        },
+        {
+            "id": 354,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/354"
+            },
+            "shortcut": "mosconi",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/mosconi-1442918307.gif"
+        },
+        {
+            "id": 371,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/371"
+            },
+            "shortcut": "mtg",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/mtg-1443128971.png"
+        },
+        {
+            "id": 294,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/294"
+            },
+            "shortcut": "n",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/n-1442417256.png"
+        },
+        {
+            "id": 322,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/322"
+            },
+            "shortcut": "neat",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/neat-1442450054.jpg"
+        },
+        {
+            "id": 235,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/235"
+            },
+            "shortcut": "nerf",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/nerf-1428958213.png"
+        },
+        {
+            "id": 353,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/353"
+            },
+            "shortcut": "nhlavalanche",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/nhlavalanche-1442867740.png"
+        },
+        {
+            "id": 344,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/344"
+            },
+            "shortcut": "nhlblackhawks",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/nhlblackhawks-1442866360.png"
+        },
+        {
+            "id": 346,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/346"
+            },
+            "shortcut": "nhlbruins",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/nhlbruins-1442866360.png"
+        },
+        {
+            "id": 351,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/351"
+            },
+            "shortcut": "nhlflames",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/nhlflames-1442866580.png"
+        },
+        {
+            "id": 345,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/345"
+            },
+            "shortcut": "nhlhabs",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/nhlhabs-1442866360.png"
+        },
+        {
+            "id": 347,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/347"
+            },
+            "shortcut": "nhljets",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/nhljets-1442866360.png"
+        },
+        {
+            "id": 348,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/348"
+            },
+            "shortcut": "nhlmapleleafs",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/nhlmapleleafs-1442866360.png"
+        },
+        {
+            "id": 349,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/349"
+            },
+            "shortcut": "nhlrangers",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/nhlrangers-1442866360.png"
+        },
+        {
+            "id": 350,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/350"
+            },
+            "shortcut": "nhlredwings",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/nhlredwings-1442866360.png"
+        },
+        {
+            "id": 451,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/451"
+            },
+            "shortcut": "noidea",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/noidea-1444484057.gif"
+        },
+        {
+            "id": 479,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/479"
+            },
+            "shortcut": "nomnomsloth",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/nomnomsloth-1445009411.gif"
+        },
+        {
+            "id": 447,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/447"
+            },
+            "shortcut": "nonono",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/nonono-1444429252.gif"
+        },
+        {
+            "id": 453,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/453"
+            },
+            "shortcut": "noway",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/noway-1444484758.gif"
+        },
+        {
+            "id": 297,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/297"
+            },
+            "shortcut": "nyan",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/nyan-1442417256.gif"
+        },
+        {
+            "id": 296,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/296"
+            },
+            "shortcut": "octocat",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/octocat-1442417260.png"
+        },
+        {
+            "id": 245,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/245"
+            },
+            "shortcut": "ohyou",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/ohyou-1431109854.png"
+        },
+        {
+            "id": 452,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/452"
+            },
+            "shortcut": "ohyou2",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/ohyou2-1444484632.gif"
+        },
+        {
+            "id": 255,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/255"
+            },
+            "shortcut": "ollie",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/ollie-1437068342.png"
+        },
+        {
+            "id": 475,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/475"
+            },
+            "shortcut": "opinionofone",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/opinionofone-1444937481.gif"
+        },
+        {
+            "id": 468,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/468"
+            },
+            "shortcut": "optiontwo",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/optiontwo-1444851663.jpg"
+        },
+        {
+            "id": 310,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/310"
+            },
+            "shortcut": "over9k",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/over9k-1442418726.gif"
+        },
+        {
+            "id": 240,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/240"
+            },
+            "shortcut": "pacman",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/pacman-1430322138.png"
+        },
+        {
+            "id": 273,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/273"
+            },
+            "shortcut": "parakeet",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/parakeet-1442248567.gif"
+        },
+        {
+            "id": 283,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/283"
+            },
+            "shortcut": "parker",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/parker-1442349834.jpg"
+        },
+        {
+            "id": 390,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/390"
+            },
+            "shortcut": "patch",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/patch-1443796637.png"
+        },
+        {
+            "id": 305,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/305"
+            },
+            "shortcut": "penguin",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/penguin-1442417260.gif"
+        },
+        {
+            "id": 434,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/434"
+            },
+            "shortcut": "piccolo",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/piccolo-1444422102.gif"
+        },
+        {
+            "id": 279,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/279"
+            },
+            "shortcut": "pie",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/pie-1442342045.gif"
+        },
+        {
+            "id": 298,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/298"
+            },
+            "shortcut": "pizza",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/pizza-1442417261.png"
+        },
+        {
+            "id": 448,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/448"
+            },
+            "shortcut": "popcorn",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/popcorn-1444437292.gif"
+        },
+        {
+            "id": 312,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/312"
+            },
+            "shortcut": "pos",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/pos-1442431175.png"
+        },
+        {
+            "id": 410,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/410"
+            },
+            "shortcut": "powers",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/powers-1444161637.jpg"
+        },
+        {
+            "id": 236,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/236"
+            },
+            "shortcut": "psg",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/psg-1428958497.png"
+        },
+        {
+            "id": 372,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/372"
+            },
+            "shortcut": "pundog",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/pundog-1443199600.jpg"
+        },
+        {
+            "id": 402,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/402"
+            },
+            "shortcut": "puyoblank",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/puyoblank-1443809444.png"
+        },
+        {
+            "id": 395,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/395"
+            },
+            "shortcut": "puyoblue",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/puyoblue-1443808021.png"
+        },
+        {
+            "id": 392,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/392"
+            },
+            "shortcut": "puyogarbage",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/puyogarbage-1443808020.png"
+        },
+        {
+            "id": 397,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/397"
+            },
+            "shortcut": "puyogreen",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/puyogreen-1443808021.png"
+        },
+        {
+            "id": 398,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/398"
+            },
+            "shortcut": "puyohjf",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/puyohjf-1443808215.jpg"
+        },
+        {
+            "id": 401,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/401"
+            },
+            "shortcut": "puyomeatball",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/puyomeatball-1443808530.png"
+        },
+        {
+            "id": 393,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/393"
+            },
+            "shortcut": "puyopurple",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/puyopurple-1443808021.png"
+        },
+        {
+            "id": 391,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/391"
+            },
+            "shortcut": "puyopuyo",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/puyopuyo-1443807491.png"
+        },
+        {
+            "id": 394,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/394"
+            },
+            "shortcut": "puyored",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/puyored-1443808021.png"
+        },
+        {
+            "id": 403,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/403"
+            },
+            "shortcut": "puyowall",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/puyowall-1443809851.jpg"
+        },
+        {
+            "id": 396,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/396"
+            },
+            "shortcut": "puyoyellow",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/puyoyellow-1443808021.png"
+        },
+        {
+            "id": 225,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/225"
+            },
+            "shortcut": "rbicon",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/rbicon-1427243221.png"
+        },
+        {
+            "id": 444,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/444"
+            },
+            "shortcut": "righton",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/righton-1444426681.gif"
+        },
+        {
+            "id": 477,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/477"
+            },
+            "shortcut": "rip",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/rip-1445009010.png"
+        },
+        {
+            "id": 243,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/243"
+            },
+            "shortcut": "robotdevil",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/robotdevil-1430325026.png"
+        },
+        {
+            "id": 231,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/231"
+            },
+            "shortcut": "rugby",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/rugby-1427816941.png"
+        },
+        {
+            "id": 317,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/317"
+            },
+            "shortcut": "running",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/running-1442442396.gif"
+        },
+        {
+            "id": 261,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/261"
+            },
+            "shortcut": "salt",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/salt-1441225480.png"
+        },
+        {
+            "id": 271,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/271"
+            },
+            "shortcut": "salty",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/salty-1442237834.gif"
+        },
+        {
+            "id": 299,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/299"
+            },
+            "shortcut": "sandwich",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/sandwich-1442417261.png"
+        },
+        {
+            "id": 454,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/454"
+            },
+            "shortcut": "science",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/science-1444485017.gif"
+        },
+        {
+            "id": 415,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/415"
+            },
+            "shortcut": "seppuku",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/seppuku-1444165202.gif"
+        },
+        {
+            "id": 251,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/251"
+            },
+            "shortcut": "shame",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/shame-1435105370.png"
+        },
+        {
+            "id": 159,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/159"
+            },
+            "shortcut": "ship",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/ship-1409781991.png"
+        },
+        {
+            "id": 280,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/280"
+            },
+            "shortcut": "shipit",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/shipit-1442342177.gif"
+        },
+        {
+            "id": 224,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/224"
+            },
+            "shortcut": "ships",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/ships-1423073483.png"
+        },
+        {
+            "id": 423,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/423"
+            },
+            "shortcut": "silence",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/silence-1444315020.jpg"
+        },
+        {
+            "id": 388,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/388"
+            },
+            "shortcut": "slowpoke",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/slowpoke-1443728153.png"
+        },
+        {
+            "id": 465,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/465"
+            },
+            "shortcut": "slurm",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/slurm-1444834224.png"
+        },
+        {
+            "id": 481,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/481"
+            },
+            "shortcut": "snotcat",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/snotcat-1445035594.gif"
+        },
+        {
+            "id": 455,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/455"
+            },
+            "shortcut": "sobbing",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/sobbing-1444485226.gif"
+        },
+        {
+            "id": 227,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/227"
+            },
+            "shortcut": "soccer",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/soccer-1427735592.png"
+        },
+        {
+            "id": 462,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/462"
+            },
+            "shortcut": "soso",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/soso-1444766535.gif"
+        },
+        {
+            "id": 445,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/445"
+            },
+            "shortcut": "soundsgood",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/soundsgood-1444426996.gif"
+        },
+        {
+            "id": 359,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/359"
+            },
+            "shortcut": "speedcoin",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/speedcoin-1443027653.png"
+        },
+        {
+            "id": 405,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/405"
+            },
+            "shortcut": "speedwins",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/speedwins-1443823282.png"
+        },
+        {
+            "id": 246,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/246"
+            },
+            "shortcut": "spewi",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/spewi-1431526792.png"
+        },
+        {
+            "id": 313,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/313"
+            },
+            "shortcut": "spinninghouse",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/spinninghouse-1442431760.gif"
+        },
+        {
+            "id": 416,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/416"
+            },
+            "shortcut": "sstitanic",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/sstitanic-1444235672.jpg"
+        },
+        {
+            "id": 300,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/300"
+            },
+            "shortcut": "stallman",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/stallman-1442417262.png"
+        },
+        {
+            "id": 260,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/260"
+            },
+            "shortcut": "stash",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/stash-1431522460.png"
+        },
+        {
+            "id": 436,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/436"
+            },
+            "shortcut": "supersaiyan",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/supersaiyan-1444422668.gif"
+        },
+        {
+            "id": 439,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/439"
+            },
+            "shortcut": "surprise",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/surprise-1444425089.gif"
+        },
+        {
+            "id": 301,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/301"
+            },
+            "shortcut": "sushi",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/sushi-1442417262.png"
+        },
+        {
+            "id": 469,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/469"
+            },
+            "shortcut": "tableflip2",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/tableflip2-1444855754.gif"
+        },
+        {
+            "id": 476,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/476"
+            },
+            "shortcut": "tacobell",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/tacobell-1444997527.png"
+        },
+        {
+            "id": 419,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/419"
+            },
+            "shortcut": "teatime",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/teatime-1444236795.png"
+        },
+        {
+            "id": 331,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/331"
+            },
+            "shortcut": "themanwithnonamezapp",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/themanwithnonamezapp-1442521372.jpg"
+        },
+        {
+            "id": 361,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/361"
+            },
+            "shortcut": "themoreyouknow",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/themoreyouknow-1443039508.gif"
+        },
+        {
+            "id": 330,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/330"
+            },
+            "shortcut": "thevelourfog",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/thevelourfog-1442521358.jpg"
+        },
+        {
+            "id": 304,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/304"
+            },
+            "shortcut": "timeforthat",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/timeforthat-1442417262.gif"
+        },
+        {
+            "id": 252,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/252"
+            },
+            "shortcut": "tindintin",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/tindintin-1435105533.png"
+        },
+        {
+            "id": 158,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/158"
+            },
+            "shortcut": "tiphat",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/tiphat-1407169553.png"
+        },
+        {
+            "id": 337,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/337"
+            },
+            "shortcut": "tonypulis",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/tonypulis-1442590370.png"
+        },
+        {
+            "id": 380,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/380"
+            },
+            "shortcut": "trophy",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/trophy-1443647869.jpeg"
+        },
+        {
+            "id": 303,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/303"
+            },
+            "shortcut": "tux",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/tux-1442417266.png"
+        },
+        {
+            "id": 343,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/343"
+            },
+            "shortcut": "unicorn",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/unicorn-1442605488.gif"
+        },
+        {
+            "id": 272,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/272"
+            },
+            "shortcut": "unicycle",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/unicycle-1442244760.gif"
+        },
+        {
+            "id": 316,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/316"
+            },
+            "shortcut": "upsource",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/upsource-1442432526.png"
+        },
+        {
+            "id": 253,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/253"
+            },
+            "shortcut": "usa",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/usa-1435689983.png"
+        },
+        {
+            "id": 473,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/473"
+            },
+            "shortcut": "vandaaaaaamn",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/vandaaaaaamn-1444878282.gif"
+        },
+        {
+            "id": 418,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/418"
+            },
+            "shortcut": "weep",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/weep-1444236475.gif"
+        },
+        {
+            "id": 237,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/237"
+            },
+            "shortcut": "westbromwichalbion",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/westbromwichalbion-1428959357.png"
+        },
+        {
+            "id": 321,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/321"
+            },
+            "shortcut": "why",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/why-1442448567.png"
+        },
+        {
+            "id": 381,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/381"
+            },
+            "shortcut": "winning",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/winning-1443648002.jpeg"
+        },
+        {
+            "id": 449,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/449"
+            },
+            "shortcut": "wizardparty",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/wizardparty-1444483621.gif"
+        },
+        {
+            "id": 456,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/456"
+            },
+            "shortcut": "wow",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/wow-1444485409.gif"
+        },
+        {
+            "id": 474,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/474"
+            },
+            "shortcut": "y",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/y-1444914469.png"
+        },
+        {
+            "id": 323,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/323"
+            },
+            "shortcut": "youths",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/youths-1442450376.gif"
+        },
+        {
+            "id": 329,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/329"
+            },
+            "shortcut": "zapp",
+            "type": "group",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/1/zapp-1442521287.jpg"
+        },
+        {
+            "id": 1,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/1"
+            },
+            "shortcut": "chris",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/chris.png"
+        },
+        {
+            "id": 2,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/2"
+            },
+            "shortcut": "facepalm",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/facepalm-1417752010.png"
+        },
+        {
+            "id": 3,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/3"
+            },
+            "shortcut": "garret",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/garret.png"
+        },
+        {
+            "id": 4,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/4"
+            },
+            "shortcut": "krang",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/krang-1417752938.png"
+        },
+        {
+            "id": 5,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/5"
+            },
+            "shortcut": "lolwut",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/lolwut-1417753079.png"
+        },
+        {
+            "id": 6,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/6"
+            },
+            "shortcut": "pete",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/pete.png"
+        },
+        {
+            "id": 7,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/7"
+            },
+            "shortcut": "pirate",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/pirate-1413932391.png"
+        },
+        {
+            "id": 8,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/8"
+            },
+            "shortcut": "poo",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/poo-1413932426.png"
+        },
+        {
+            "id": 9,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/9"
+            },
+            "shortcut": "coffee",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/coffee-1414375635.png"
+        },
+        {
+            "id": 10,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/10"
+            },
+            "shortcut": "beer",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/beer-1414022661.png"
+        },
+        {
+            "id": 11,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/11"
+            },
+            "shortcut": "sadpanda",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/sadpanda-1417754292.png"
+        },
+        {
+            "id": 12,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/12"
+            },
+            "shortcut": "tree",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/tree-1414022753.png"
+        },
+        {
+            "id": 13,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/13"
+            },
+            "shortcut": "present",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/present-1417754218.png"
+        },
+        {
+            "id": 14,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/14"
+            },
+            "shortcut": "rudolph",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/rudolph-1414022810.png"
+        },
+        {
+            "id": 15,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/15"
+            },
+            "shortcut": "santa",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/santa-1414022839.png"
+        },
+        {
+            "id": 16,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/16"
+            },
+            "shortcut": "kwanzaa",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/kwanzaa-1414022870.png"
+        },
+        {
+            "id": 17,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/17"
+            },
+            "shortcut": "menorah",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/menorah-1414022898.png"
+        },
+        {
+            "id": 18,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/18"
+            },
+            "shortcut": "cornelius",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/cornelius-1414022924.png"
+        },
+        {
+            "id": 19,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/19"
+            },
+            "shortcut": "bumble",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/bumble-1417751030.png"
+        },
+        {
+            "id": 20,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/20"
+            },
+            "shortcut": "rageguy",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/rageguy-1414022976.png"
+        },
+        {
+            "id": 21,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/21"
+            },
+            "shortcut": "troll",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/troll-1414023002.png"
+        },
+        {
+            "id": 22,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/22"
+            },
+            "shortcut": "fu",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/fu-1414023026.png"
+        },
+        {
+            "id": 23,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/23"
+            },
+            "shortcut": "hipchat",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/hipchat-1431522405.png"
+        },
+        {
+            "id": 24,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/24"
+            },
+            "shortcut": "yey",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/yey-1414023049.png"
+        },
+        {
+            "id": 25,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/25"
+            },
+            "shortcut": "yuno",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/yuno-1417754433.png"
+        },
+        {
+            "id": 26,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/26"
+            },
+            "shortcut": "itsatrap",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/itsatrap-1417752711.png"
+        },
+        {
+            "id": 27,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/27"
+            },
+            "shortcut": "heart",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/heart-1417752586.png"
+        },
+        {
+            "id": 28,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/28"
+            },
+            "shortcut": "foreveralone",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/foreveralone-1414023140.png"
+        },
+        {
+            "id": 29,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/29"
+            },
+            "shortcut": "washington",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/washington-1414023164.png"
+        },
+        {
+            "id": 30,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/30"
+            },
+            "shortcut": "lincoln",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/lincoln-1417752959.png"
+        },
+        {
+            "id": 31,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/31"
+            },
+            "shortcut": "jobs",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/jobs-1417752336.png"
+        },
+        {
+            "id": 32,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/32"
+            },
+            "shortcut": "taft",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/taft-1417754373.png"
+        },
+        {
+            "id": 33,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/33"
+            },
+            "shortcut": "gates",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/gates-1417752311.png"
+        },
+        {
+            "id": 34,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/34"
+            },
+            "shortcut": "awyeah",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/awyeah-1417750835.png"
+        },
+        {
+            "id": 35,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/35"
+            },
+            "shortcut": "cereal",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/cereal-1414023343.png"
+        },
+        {
+            "id": 36,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/36"
+            },
+            "shortcut": "challengeaccepted",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/challengeaccepted-1417751095.png"
+        },
+        {
+            "id": 37,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/37"
+            },
+            "shortcut": "content",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/content-1414023392.png"
+        },
+        {
+            "id": 38,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/38"
+            },
+            "shortcut": "dumb",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/dumb-1417751988.png"
+        },
+        {
+            "id": 39,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/39"
+            },
+            "shortcut": "lol",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/lol-1414023491.png"
+        },
+        {
+            "id": 40,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/40"
+            },
+            "shortcut": "megusta",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/megusta-1414023519.png"
+        },
+        {
+            "id": 41,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/41"
+            },
+            "shortcut": "okay",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/okay-1414023544.png"
+        },
+        {
+            "id": 42,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/42"
+            },
+            "shortcut": "omg",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/omg-1414023574.png"
+        },
+        {
+            "id": 43,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/43"
+            },
+            "shortcut": "sadtroll",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/sadtroll-1414023623.png"
+        },
+        {
+            "id": 44,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/44"
+            },
+            "shortcut": "reddit",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/reddit-1417754241.png"
+        },
+        {
+            "id": 45,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/45"
+            },
+            "shortcut": "seomoz",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/seomoz-1414023675.png"
+        },
+        {
+            "id": 46,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/46"
+            },
+            "shortcut": "shamrock",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/shamrock-1414023710.png"
+        },
+        {
+            "id": 47,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/47"
+            },
+            "shortcut": "greenbeer",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/greenbeer-1414023735.png"
+        },
+        {
+            "id": 48,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/48"
+            },
+            "shortcut": "wtf",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/wtf-1417754405.png"
+        },
+        {
+            "id": 49,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/49"
+            },
+            "shortcut": "ohcrap",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/ohcrap-1414023779.png"
+        },
+        {
+            "id": 50,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/50"
+            },
+            "shortcut": "arrington",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/arrington-1414023805.png"
+        },
+        {
+            "id": 51,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/51"
+            },
+            "shortcut": "fuckyeah",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/fuckyeah-1414023828.png"
+        },
+        {
+            "id": 52,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/52"
+            },
+            "shortcut": "basket",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/basket-1414023854.png"
+        },
+        {
+            "id": 53,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/53"
+            },
+            "shortcut": "bunny",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/bunny-1414023876.png"
+        },
+        {
+            "id": 54,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/54"
+            },
+            "shortcut": "cadbury",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/cadbury-1414023926.png"
+        },
+        {
+            "id": 55,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/55"
+            },
+            "shortcut": "chocobunny",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/chocobunny-1414023949.png"
+        },
+        {
+            "id": 56,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/56"
+            },
+            "shortcut": "zzz",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/zzz.gif"
+        },
+        {
+            "id": 57,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/57"
+            },
+            "shortcut": "ducreux",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/ducreux-1414023991.png"
+        },
+        {
+            "id": 58,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/58"
+            },
+            "shortcut": "android",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/android-1414024011.png"
+        },
+        {
+            "id": 59,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/59"
+            },
+            "shortcut": "cake",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/cake-1414024030.png"
+        },
+        {
+            "id": 60,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/60"
+            },
+            "shortcut": "rebeccablack",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/rebeccablack-1414024054.png"
+        },
+        {
+            "id": 61,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/61"
+            },
+            "shortcut": "pbr",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/pbr-1414024081.png"
+        },
+        {
+            "id": 62,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/62"
+            },
+            "shortcut": "dosequis",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/dosequis-1414024105.png"
+        },
+        {
+            "id": 63,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/63"
+            },
+            "shortcut": "ilied",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/ilied-1417752608.png"
+        },
+        {
+            "id": 64,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/64"
+            },
+            "shortcut": "jackie",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/jackie-1417752827.png"
+        },
+        {
+            "id": 65,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/65"
+            },
+            "shortcut": "areyoukiddingme",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/areyoukiddingme-1414024355.png"
+        },
+        {
+            "id": 66,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/66"
+            },
+            "shortcut": "sweetjesus",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/sweetjesus-1417754353.png"
+        },
+        {
+            "id": 67,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/67"
+            },
+            "shortcut": "goodnews",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/goodnews-1417752451.png"
+        },
+        {
+            "id": 68,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/68"
+            },
+            "shortcut": "kennypowers",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/kennypowers-1417752920.png"
+        },
+        {
+            "id": 69,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/69"
+            },
+            "shortcut": "disapproval",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/disapproval-1414024448.png"
+        },
+        {
+            "id": 70,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/70"
+            },
+            "shortcut": "zoidberg",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/zoidberg-1417754444.png"
+        },
+        {
+            "id": 71,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/71"
+            },
+            "shortcut": "badpokerface",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/badpokerface-1414089953.png"
+        },
+        {
+            "id": 72,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/72"
+            },
+            "shortcut": "notbad",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/notbad-1417754112.png"
+        },
+        {
+            "id": 73,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/73"
+            },
+            "shortcut": "pokerface",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/pokerface-1414090721.png"
+        },
+        {
+            "id": 74,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/74"
+            },
+            "shortcut": "philosoraptor",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/philosoraptor-1417754200.png"
+        },
+        {
+            "id": 75,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/75"
+            },
+            "shortcut": "samuel",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/samuel-1417754316.png"
+        },
+        {
+            "id": 76,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/76"
+            },
+            "shortcut": "chewie",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/chewie-1417751139.png"
+        },
+        {
+            "id": 77,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/77"
+            },
+            "shortcut": "pumpkin",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/pumpkin-1414024641.png"
+        },
+        {
+            "id": 79,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/79"
+            },
+            "shortcut": "candycorn",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/candycorn-1414024689.png"
+        },
+        {
+            "id": 80,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/80"
+            },
+            "shortcut": "caruso",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/caruso-1417751051.png"
+        },
+        {
+            "id": 81,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/81"
+            },
+            "shortcut": "haveaseat",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/haveaseat-1417752572.png"
+        },
+        {
+            "id": 82,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/82"
+            },
+            "shortcut": "scumbag",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/scumbag-1413684123.png"
+        },
+        {
+            "id": 83,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/83"
+            },
+            "shortcut": "yodawg",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/yodawg-1417754419.png"
+        },
+        {
+            "id": 84,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/84"
+            },
+            "shortcut": "truestory",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/truestory-1413920318.png"
+        },
+        {
+            "id": 85,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/85"
+            },
+            "shortcut": "derp",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/derp-1417751963.png"
+        },
+        {
+            "id": 86,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/86"
+            },
+            "shortcut": "stare",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/stare-1414024815.png"
+        },
+        {
+            "id": 87,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/87"
+            },
+            "shortcut": "allthethings",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/allthethings-1414024836.png"
+        },
+        {
+            "id": 88,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/88"
+            },
+            "shortcut": "freddie",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/freddie-1417752152.png"
+        },
+        {
+            "id": 89,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/89"
+            },
+            "shortcut": "wat",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/wat-1414024905.png"
+        },
+        {
+            "id": 90,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/90"
+            },
+            "shortcut": "skyrim",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/skyrim-1417754336.png"
+        },
+        {
+            "id": 91,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/91"
+            },
+            "shortcut": "dealwithit",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/dealwithit-1414024955.gif"
+        },
+        {
+            "id": 92,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/92"
+            },
+            "shortcut": "nothingtodohere",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/nothingtodohere-1414025069.png"
+        },
+        {
+            "id": 93,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/93"
+            },
+            "shortcut": "orly",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/orly-1414025090.png"
+        },
+        {
+            "id": 94,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/94"
+            },
+            "shortcut": "hipster",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/hipster-1414025113.png"
+        },
+        {
+            "id": 95,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/95"
+            },
+            "shortcut": "ashton",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/ashton-1414025136.png"
+        },
+        {
+            "id": 96,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/96"
+            },
+            "shortcut": "chompy",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/chompy-1414025208.gif"
+        },
+        {
+            "id": 97,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/97"
+            },
+            "shortcut": "fry",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/fry-1414025241.png"
+        },
+        {
+            "id": 99,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/99"
+            },
+            "shortcut": "atlassian",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/atlassian-1414025304.png"
+        },
+        {
+            "id": 100,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/100"
+            },
+            "shortcut": "drevil",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/drevil-1414025327.png"
+        },
+        {
+            "id": 101,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/101"
+            },
+            "shortcut": "boom",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/boom-1414103101.gif"
+        },
+        {
+            "id": 102,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/102"
+            },
+            "shortcut": "ohgodwhy",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/ohgodwhy-1414025393.png"
+        },
+        {
+            "id": 103,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/103"
+            },
+            "shortcut": "ceilingcat",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/ceilingcat-1414025417.png"
+        },
+        {
+            "id": 104,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/104"
+            },
+            "shortcut": "pingpong",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/pingpong-1414025441.png"
+        },
+        {
+            "id": 105,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/105"
+            },
+            "shortcut": "tea",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/tea-1414025463.png"
+        },
+        {
+            "id": 106,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/106"
+            },
+            "shortcut": "awthanks",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/awthanks-1414025485.png"
+        },
+        {
+            "id": 107,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/107"
+            },
+            "shortcut": "indeed",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/indeed-1417752694.png"
+        },
+        {
+            "id": 108,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/108"
+            },
+            "shortcut": "badass",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/badass-1417750950.png"
+        },
+        {
+            "id": 109,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/109"
+            },
+            "shortcut": "ninja",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/ninja-1414025554.png"
+        },
+        {
+            "id": 110,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/110"
+            },
+            "shortcut": "notsureif",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/notsureif-1417754143.png"
+        },
+        {
+            "id": 111,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/111"
+            },
+            "shortcut": "fwp",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/fwp-1414025600.png"
+        },
+        {
+            "id": 112,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/112"
+            },
+            "shortcut": "firstworldproblem",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/firstworldproblem-1342647915.png"
+        },
+        {
+            "id": 113,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/113"
+            },
+            "shortcut": "chucknorris",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/chucknorris-1417751159.png"
+        },
+        {
+            "id": 114,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/114"
+            },
+            "shortcut": "notsureifgusta",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/notsureifgusta-1414025677.png"
+        },
+        {
+            "id": 115,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/115"
+            },
+            "shortcut": "twss",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/twss-1417754388.png"
+        },
+        {
+            "id": 116,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/116"
+            },
+            "shortcut": "success",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/success-1414025948.png"
+        },
+        {
+            "id": 117,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/117"
+            },
+            "shortcut": "iseewhatyoudidthere",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/iseewhatyoudidthere-1414026019.png"
+        },
+        {
+            "id": 118,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/118"
+            },
+            "shortcut": "gangnamstyle",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/gangnamstyle-1417752182.gif"
+        },
+        {
+            "id": 119,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/119"
+            },
+            "shortcut": "shrug",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/shrug-1414032234.png"
+        },
+        {
+            "id": 120,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/120"
+            },
+            "shortcut": "tableflip",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/tableflip-1414031937.png"
+        },
+        {
+            "id": 121,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/121"
+            },
+            "shortcut": "cerealspit",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/cerealspit-1414026180.png"
+        },
+        {
+            "id": 122,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/122"
+            },
+            "shortcut": "bitbucket",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/bitbucket-1431522339.png"
+        },
+        {
+            "id": 123,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/123"
+            },
+            "shortcut": "jira",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/jira-1431522426.png"
+        },
+        {
+            "id": 124,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/124"
+            },
+            "shortcut": "obama",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/obama-1414026271.png"
+        },
+        {
+            "id": 125,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/125"
+            },
+            "shortcut": "romney",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/romney-1417754260.png"
+        },
+        {
+            "id": 126,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/126"
+            },
+            "shortcut": "trump",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/trump-1414026327.png"
+        },
+        {
+            "id": 127,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/127"
+            },
+            "shortcut": "grumpycat",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/grumpycat-1414026366.png"
+        },
+        {
+            "id": 128,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/128"
+            },
+            "shortcut": "confluence",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/confluence-1431522360.png"
+        },
+        {
+            "id": 129,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/129"
+            },
+            "shortcut": "yougotitdude",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/yougotitdude-1414026430.gif"
+        },
+        {
+            "id": 130,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/130"
+            },
+            "shortcut": "clarence",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/clarence-1417751942.png"
+        },
+        {
+            "id": 131,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/131"
+            },
+            "shortcut": "continue",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/continue-1414026510.png"
+        },
+        {
+            "id": 132,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/132"
+            },
+            "shortcut": "failed",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/failed-1414026532.png"
+        },
+        {
+            "id": 133,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/133"
+            },
+            "shortcut": "successful",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/successful-1414026553.png"
+        },
+        {
+            "id": 134,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/134"
+            },
+            "shortcut": "unknown",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/unknown-1414026584.png"
+        },
+        {
+            "id": 135,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/135"
+            },
+            "shortcut": "branch",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/branch-1414026601.png"
+        },
+        {
+            "id": 136,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/136"
+            },
+            "shortcut": "mindblown",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/mindblown-1414029295.gif"
+        },
+        {
+            "id": 137,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/137"
+            },
+            "shortcut": "badjokeeel",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/badjokeeel-1417751014.png"
+        },
+        {
+            "id": 138,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/138"
+            },
+            "shortcut": "gtfo",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/gtfo-1414026923.png"
+        },
+        {
+            "id": 139,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/139"
+            },
+            "shortcut": "huh",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/huh-1414026942.png"
+        },
+        {
+            "id": 140,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/140"
+            },
+            "shortcut": "turkey",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/turkey-1414028694.png"
+        },
+        {
+            "id": 141,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/141"
+            },
+            "shortcut": "fonzie",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/fonzie-1417752102.png"
+        },
+        {
+            "id": 143,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/143"
+            },
+            "shortcut": "fonzie",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/fonzie-1417752102.png"
+        },
+        {
+            "id": 145,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/145"
+            },
+            "shortcut": "nextgendev",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/nextgendev-1414028778.png"
+        },
+        {
+            "id": 146,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/146"
+            },
+            "shortcut": "hodor",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/hodor-1414028801.png"
+        },
+        {
+            "id": 147,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/147"
+            },
+            "shortcut": "arya",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/arya-1414028821.png"
+        },
+        {
+            "id": 148,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/148"
+            },
+            "shortcut": "tyrion",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/tyrion-1414028850.png"
+        },
+        {
+            "id": 149,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/149"
+            },
+            "shortcut": "jaime",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/jaime-1414028872.png"
+        },
+        {
+            "id": 150,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/150"
+            },
+            "shortcut": "ned",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/ned-1414028897.png"
+        },
+        {
+            "id": 151,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/151"
+            },
+            "shortcut": "jonsnow",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/jonsnow-1414028921.png"
+        },
+        {
+            "id": 152,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/152"
+            },
+            "shortcut": "daenerys",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/daenerys-1414028947.png"
+        },
+        {
+            "id": 153,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/153"
+            },
+            "shortcut": "joffrey",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/joffrey-1417760026.png"
+        },
+        {
+            "id": 154,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/154"
+            },
+            "shortcut": "tywin",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/tywin-1414028997.png"
+        },
+        {
+            "id": 162,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/162"
+            },
+            "shortcut": "awesome",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/awesome-1417754492.png"
+        },
+        {
+            "id": 163,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/163"
+            },
+            "shortcut": "aww",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/aww-1417754503.png"
+        },
+        {
+            "id": 164,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/164"
+            },
+            "shortcut": "awwyiss",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/awwyiss-1417754513.png"
+        },
+        {
+            "id": 165,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/165"
+            },
+            "shortcut": "badtime",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/badtime-1417754523.png"
+        },
+        {
+            "id": 166,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/166"
+            },
+            "shortcut": "bicepleft",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/bicepleft-1417754567.png"
+        },
+        {
+            "id": 167,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/167"
+            },
+            "shortcut": "bicepright",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/bicepright-1417754576.png"
+        },
+        {
+            "id": 168,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/168"
+            },
+            "shortcut": "borat",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/borat-1417754598.png"
+        },
+        {
+            "id": 169,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/169"
+            },
+            "shortcut": "carl",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/carl-1417754606.png"
+        },
+        {
+            "id": 170,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/170"
+            },
+            "shortcut": "catchemall",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/catchemall-1417754614.png"
+        },
+        {
+            "id": 171,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/171"
+            },
+            "shortcut": "celeryman",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/celeryman-1418247558.gif"
+        },
+        {
+            "id": 172,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/172"
+            },
+            "shortcut": "chef",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/chef-1417754621.png"
+        },
+        {
+            "id": 173,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/173"
+            },
+            "shortcut": "cookie",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/cookie-1417754631.png"
+        },
+        {
+            "id": 174,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/174"
+            },
+            "shortcut": "corpsethumb",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/corpsethumb-1417754640.png"
+        },
+        {
+            "id": 175,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/175"
+            },
+            "shortcut": "disappear",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/disappear-1417754650.gif"
+        },
+        {
+            "id": 176,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/176"
+            },
+            "shortcut": "doge",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/doge-1414029048.png"
+        },
+        {
+            "id": 177,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/177"
+            },
+            "shortcut": "doh",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/doh-1417755734.png"
+        },
+        {
+            "id": 178,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/178"
+            },
+            "shortcut": "donotwant",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/donotwant-1417755746.png"
+        },
+        {
+            "id": 179,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/179"
+            },
+            "shortcut": "downvote",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/downvote-1417755753.png"
+        },
+        {
+            "id": 180,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/180"
+            },
+            "shortcut": "drool",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/drool-1417755763.png"
+        },
+        {
+            "id": 181,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/181"
+            },
+            "shortcut": "evilburns",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/evilburns-1417755772.png"
+        },
+        {
+            "id": 182,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/182"
+            },
+            "shortcut": "excellent",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/excellent-1417755785.png"
+        },
+        {
+            "id": 183,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/183"
+            },
+            "shortcut": "feelsbadman",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/feelsbadman-1417755795.png"
+        },
+        {
+            "id": 184,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/184"
+            },
+            "shortcut": "feelsgoodman",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/feelsgoodman-1417755815.png"
+        },
+        {
+            "id": 185,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/185"
+            },
+            "shortcut": "finn",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/finn-1417755835.png"
+        },
+        {
+            "id": 186,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/186"
+            },
+            "shortcut": "fireworks",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/fireworks-1420575887.gif"
+        },
+        {
+            "id": 187,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/187"
+            },
+            "shortcut": "firstworldproblems",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/firstworldproblems-1414025630.png"
+        },
+        {
+            "id": 188,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/188"
+            },
+            "shortcut": "ftfy",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/ftfy-1417755844.png"
+        },
+        {
+            "id": 189,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/189"
+            },
+            "shortcut": "giggity",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/giggity-1417755851.png"
+        },
+        {
+            "id": 190,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/190"
+            },
+            "shortcut": "goldstar",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/goldstar-1417755861.png"
+        },
+        {
+            "id": 191,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/191"
+            },
+            "shortcut": "haha",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/haha-1417755876.png"
+        },
+        {
+            "id": 192,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/192"
+            },
+            "shortcut": "heygirl",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/heygirl-1413684451.png"
+        },
+        {
+            "id": 193,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/193"
+            },
+            "shortcut": "huehue",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/huehue-1417755882.png"
+        },
+        {
+            "id": 194,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/194"
+            },
+            "shortcut": "hugefan",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/hugefan-1417755893.png"
+        },
+        {
+            "id": 195,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/195"
+            },
+            "shortcut": "jake",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/jake-1417807978.png"
+        },
+        {
+            "id": 196,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/196"
+            },
+            "shortcut": "meh",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/meh-1417755922.png"
+        },
+        {
+            "id": 197,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/197"
+            },
+            "shortcut": "motherofgod",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/motherofgod-1417755937.gif"
+        },
+        {
+            "id": 198,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/198"
+            },
+            "shortcut": "nice",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/nice-1417756761.png"
+        },
+        {
+            "id": 200,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/200"
+            },
+            "shortcut": "notit",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/notit-1417756777.png"
+        },
+        {
+            "id": 201,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/201"
+            },
+            "shortcut": "ohmy",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/ohmy-1417756786.png"
+        },
+        {
+            "id": 202,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/202"
+            },
+            "shortcut": "paddlin",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/paddlin-1417756794.png"
+        },
+        {
+            "id": 203,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/203"
+            },
+            "shortcut": "rainicorn",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/rainicorn-1417807924.png"
+        },
+        {
+            "id": 204,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/204"
+            },
+            "shortcut": "rockon",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/rockon-1417756812.gif"
+        },
+        {
+            "id": 205,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/205"
+            },
+            "shortcut": "salute",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/salute-1417756826.png"
+        },
+        {
+            "id": 206,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/206"
+            },
+            "shortcut": "sap",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/sap-1417756835.png"
+        },
+        {
+            "id": 207,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/207"
+            },
+            "shortcut": "standup",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/standup-1417756844.gif"
+        },
+        {
+            "id": 208,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/208"
+            },
+            "shortcut": "taco",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/taco-1417756862.png"
+        },
+        {
+            "id": 209,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/209"
+            },
+            "shortcut": "thatthing",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/thatthing-1417756953.png"
+        },
+        {
+            "id": 210,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/210"
+            },
+            "shortcut": "theyregreat",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/theyregreat-1417756964.png"
+        },
+        {
+            "id": 211,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/211"
+            },
+            "shortcut": "toodamnhigh",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/toodamnhigh-1417756973.png"
+        },
+        {
+            "id": 212,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/212"
+            },
+            "shortcut": "unacceptable",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/unacceptable-1417756981.png"
+        },
+        {
+            "id": 213,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/213"
+            },
+            "shortcut": "upvote",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/upvote-1417756989.png"
+        },
+        {
+            "id": 214,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/214"
+            },
+            "shortcut": "vote",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/vote-1415153517.png"
+        },
+        {
+            "id": 215,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/215"
+            },
+            "shortcut": "waiting",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/waiting-1417756997.gif"
+        },
+        {
+            "id": 216,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/216"
+            },
+            "shortcut": "whoa",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/whoa-1417757013.png"
+        },
+        {
+            "id": 217,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/217"
+            },
+            "shortcut": "whynotboth",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/whynotboth-1414029073.gif"
+        },
+        {
+            "id": 218,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/218"
+            },
+            "shortcut": "yeah",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/yeah-1417757020.png"
+        },
+        {
+            "id": 219,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/219"
+            },
+            "shortcut": "youdontsay",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/youdontsay-1417757028.png"
+        },
+        {
+            "id": 249,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/249"
+            },
+            "shortcut": "forscale",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/forscale-1428536097.png"
+        },
+        {
+            "id": 256,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/256"
+            },
+            "shortcut": "bamboo",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/bamboo-1431522312.png"
+        },
+        {
+            "id": 257,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/257"
+            },
+            "shortcut": "crucible",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/crucible-1431522372.png"
+        },
+        {
+            "id": 258,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/258"
+            },
+            "shortcut": "fisheye",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/fisheye-1431522386.png"
+        },
+        {
+            "id": 259,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/259"
+            },
+            "shortcut": "sourcetree",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/sourcetree-1431522444.png"
+        },
+        {
+            "id": 269,
+            "links": {
+                "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon/269"
+            },
+            "shortcut": "pride",
+            "type": "global",
+            "url": "https://hipchat.tripadvisorhipchat.com/files/img/emoticons/pride-1435338809.png"
+        }
+    ],
+    "links": {
+        "self": "https://hipchat.tripadvisorhipchat.com/v2/emoticon"
+    },
+    "maxResults": 1000,
+    "startIndex": 0
+}
